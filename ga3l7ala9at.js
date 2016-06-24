@@ -1,5 +1,5 @@
 //<![CDATA[
-var numfeed = 5;
+var numfeed = 6;
 var startfeed = 0;
 var urlblog = "http://www.otanime.tk/";
 var charac = 0;

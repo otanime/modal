@@ -1,8 +1,8 @@
 //<![CDATA[
-var numfeed = 6;
+var numfeed = 5;
 var startfeed = 0;
 var urlblog = "http://www.otanime.tk/";
-var charac = 0;
+var charac = 55;
 var urlprevious, urlnext;
 
 function maskolisfeed(johny,banget){

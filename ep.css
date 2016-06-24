@@ -1,0 +1,15 @@
+#mas-terbaru{border:1px solid #585858;width:100%;margin:0 auto}
+#terbaru{margin:0px}
+.mas-elemen{border:1px solid #ccc;margin:5px 0;padding:5px;height:85px; background:#fff;}
+.mas-elemen img{padding:3px;float:left;height:75px;margin-right:8px;width:75px;}
+.mas-elemen h6,.mas-elemen h6 a{font-size:14px!important;font-weight:300!important;margin:0;color:#111;padding: 7px; text-align: center;}
+.mas-elemen:hover {background: #ECF7FF;border: 1px solid #46B6FC;transition: all 0.7s ease 0s;}
+.mas-elemen p{font:14px PT Sans Narrow;text-align:justify;color:#555;line-height:14px;margin:5px 0;display: none;}
+#mas-loading{color:#888;font-family:Tahoma;font-size:100px;letter-spacing:-10px;text-align:center;text-shadow:-5px 0 1px #444;background:#141414 url(https://lh3.googleusercontent.com/-OMCT2Ge0LS0/UskwP_kWQoI/AAAAAAAAC7A/Y7clJWi1tNs/s55/loading.gif) no-repeat 50% 50%;height:470px;border:1px solid #c3c3c3}
+#mas-navigasifeed{color:#bbb;font-family:Verdana;font-size:12px;text-align:center;margin:0px;background:#fff;}
+#mas-navigasifeed a{color: #ffffff!important; font-family: "khayal"; font-size: 12px!important; font-weight: bold!important; display: inline-block; padding: 5px 10px; text-decoration: none; background: #ff9600;}
+#mas-navigasifeed span{padding:5px 10px}
+#mas-navigasifeed .next{float:right;background: #ff9600; color: #fff !important; padding: 5px;}
+#mas-navigasifeed .previous{float:left}
+#mas-navigasifeed .home{text-align:center}
+#mas-navigasifeed a:hover {color: #ff9600 !important; background: white;}

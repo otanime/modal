@@ -8,7 +8,7 @@
     font-size: 80%;
     width: 100%;
     margin-right: 0;
-
+div#ep-ld
 }
 
 #tabs ul {
@@ -82,19 +82,19 @@ width: 90%;
 
 div#ep-hd {
     float: right;
-    width: 33.33%;
+    width: 30%;
     text-align: center;
     margin-top: 35px;
 }
 div#ep-sd {
     float: right;
-    width: 33.33%;
+    width: 30%;
     text-align: center;
     margin-top: 35px;
 }
 div#ep-ld {
-    float: left;
-    width: 33.33%;
+    float: right;
+    width: 30%;
     text-align: center;
     margin-top: 35px;
 }

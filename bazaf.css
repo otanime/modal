@@ -1,0 +1,327 @@
+.index .post-outer, .archive .post-outer {
+    padding-top: 0;
+}
+
+.post-labels-in {
+    border: none;
+    display: none;
+}
+
+.in-post-meta {
+    display: none;
+}
+
+div#related-post {
+    display: none;
+}
+
+#arg {
+    background-color: #3e4649;
+    overflow: hidden;
+}
+
+#arg-wi {
+    overflow: hidden;
+    max-width: 1334px;
+    margin: auto;
+}
+
+#main-wrapper {
+    width: 70%;
+    float: left;
+}
+
+#sidebar-wrapper {
+    /* width: 29%; */
+    float: right;
+    margin-top: 29px;
+    padding-bottom: 10px;
+    display: non;
+}
+
+.index .post-outer, .archive .post-outer {
+    padding: 0;
+}
+  .post-labels-in {
+    border: none;
+}
+
+.comments {
+    margin-top: 44px;
+}
+.comments h4 {
+    background-color: #ff9600;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    font-family: &quot;JF Flat Regular&quot;;
+    padding: 13px;
+    border: none;
+text-align: center;
+    border-bottom: 2px solid;
+}
+.comment-footer {
+    margin: 0;
+}
+.comment-form iframe {
+    background-color: #313233;
+    max-height: 210px;
+}
+
+.comments .comments-content {
+    background-color: rgba(49, 50, 51, 0.51);
+    padding: 10px;
+    margin-top: 0;
+    border: none;
+padding-bottom: 0;
+}
+.comments .avatar-image-container {
+    float: right;
+    max-height: 53px;
+    width: 53px;
+    height: 53px;
+    border-radius: 100px 100px;
+    border: 2px solid #ff9600;
+}
+.comment-thread li:before {
+    display: none;
+}
+.comments .comment-block {
+    position: relative;
+    background: #eee;
+    margin-right: 72px;
+    margin-left: 3px;
+    padding: 14px 0 0 20px;
+}
+
+.post {
+    border-radius: 0;
+}
+.share-post {
+    display: none;
+}
+
+ul.post-pager {
+    display: none;
+}
+.ltahte {
+    width: 100% !important;
+    margin-bottom: 63px !important;
+}
+
+
+.preep {
+float: left !important;
+    background: #313233 !important;
+    color: white !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 16px !important;
+    padding-bottom: 12px !important;
+    text-align: center !important;
+    min-height: 56px !important;
+}
+
+i.fa.fa-reply {
+    margin-right: 10px !important;
+}
+
+
+.preep a {
+    color: white !important;
+}
+
+.allep {
+    float: left !important;
+    background: #313233 !important;
+    padding-left: 8px !important;
+    color: white !important;
+    margin-left: 10px !important;
+    padding-right: 10px !important;
+    text-align: center !important;
+    max-height: 56px !important;
+    min-height: 56px !important;
+    padding-top: 3px !important;
+}
+
+.allep a {
+    color: white !important;
+}
+
+.nextep {
+float: left !important;
+    background: #313233 !important;
+    color: white !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 16px !important;
+    padding-bottom: 12px !important;
+    text-align: center !important;
+    min-height: 56px !important;
+    margin-left: 10px !important;
+}
+
+.nextep a {
+    color: #ffffff !important;
+}
+i.fa.fa-share {
+    margin-left: 10px !important;
+}
+.downep {
+float: right !important;
+    background: #313233 !important;
+    padding-left: 8px !important;
+    color: white !important;
+    min-height: 56px !important;
+    text-align: center !important;
+    padding-right: 10px !important;
+    padding-top: 4px !important;
+
+}
+.downep a {
+    color: white !important;
+}
+i.fa.fa-cloud-download {
+    font-size: 20px !important;
+}
+
+.ta3-ltahte {
+    width: 100% !important;
+    background: white !important;
+    padding: 10px !important;
+    margin-bottom: 50px !important;
+    margin-top: 10px !important;
+}
+
+.tablire {
+width: 26% !important;
+    min-height: 56px !important;
+    background: #ff9600 !important;
+    text-align: center !important;
+    padding: 13px !important;
+    height: 10px !important;
+    z-index: 999999 !important;
+    float: right;
+    margin-right: 10px;
+}
+
+.tablire a {
+    color: white !important;
+}
+
+i.fa.fa-exclamation-triangle {
+    margin-left: 13px !important;
+}
+
+.fo9bzaf {
+    width: 100% !important;
+    height: 50px !important;
+    background: white !important;
+    margin-bottom: 20px !important;
+
+}
+.post-heading {
+text-align: center;
+    background: #ffffff;
+    color: #ff9600;
+    padding: 1px;
+}
+
+.sidebar .widget {
+    background: rgba(49, 50, 51, 0.72);
+    border: none;
+    margin: 0;
+}
+.sidebar h2 {
+    color: #fff;
+    font-size: 16px;
+    font-family: "JF Flat Regular";
+    display: inline-block;
+    padding-right: 26px;
+    margin-right: -14px;
+    bottom: -2px;
+    padding-bottom: 10px;
+}
+
+div#down-ep-page {
+    width: 100%;
+    margin-bottom: 10px;
+    background: #313233;
+height: 490px;    
+display: none;
+}
+
+.post-summary {
+    padding-top: 0;
+}
+
+i.fa.fa-times {
+    color: #fff;
+    padding: 10px;
+    float: left;
+}
+
+h1.post-title.entry-title {
+    font-family: jooza;
+font-size: 21px;
+}
+
+#arg {
+    background-color: #3e4649;
+    overflow: hidden;
+    background-image: url("https://lh4.googleusercontent.com/proxy/qqg3jHBbxQ89TvoydID_8K0MTgXcqpD5UgyA4o5H6VbT-UGLInhBGclfoMQWNAjNDnYrJi1b5MTLFFd0VGgi2sXQ0vPPtiD74ZTv1ace5Dy9EHkUib8GVPDikN-f272VJnNbVU1eOA=s0-d") !important;
+    background-repeat: round;
+    background-attachment: fixed;
+} 
+
+div#sidebar1 {
+    margin-top: 116px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    height: auto;
+    overflow: hidden;
+    padding: 0;
+}
+
+.widget-title {
+    font-family: FontAwesome;
+    position: relative;
+    color: #fff;
+    background: #ff9600;
+    padding: 8px;
+    text-align: center;
+    margin: 0;
+}
+
+.sidebar .widget .widget-content {
+    margin-top: 0;
+    padding: 2.37px;
+    text-align: center;
+}
+
+.lone {
+    background: #fff;
+    padding: 10px;
+    margin-top: 15px;
+    width: 1000%;
+}
+
+
+#sidebar1 .widget .widget-content {
+    margin-top: 0;
+    padding: 2.37px;
+    text-align: center;
+    background: #fff;
+}
+
+div#FeaturedPost1 {
+    background: rgb(255, 255, 255);
+    padding: 0;
+}
+
+.post-summary {
+    padding-top: 0;
+}
+
+

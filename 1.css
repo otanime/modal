@@ -112,15 +112,15 @@ ul.post-pager {
 
 
 .preep {
-float: left !important;
-    background: #313233 !important;
-    color: white !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    padding-top: 16px !important;
-    padding-bottom: 12px !important;
-    text-align: center !important;
-    min-height: 56px !important;
+float: left;
+    background: #313233;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    padding-bottom: 12px;
+    text-align: center;
+    min-height: 56px;
 }
 
 i.fa.fa-reply {
@@ -133,16 +133,16 @@ i.fa.fa-reply {
 }
 
 .allep {
-    float: left !important;
-    background: #313233 !important;
-    padding-left: 8px !important;
-    color: white !important;
-    margin-left: 10px !important;
-    padding-right: 10px !important;
-    text-align: center !important;
-    max-height: 56px !important;
-    min-height: 56px !important;
-    padding-top: 3px !important;
+    float: left;
+    background: #313233;
+    padding-left: 8px;
+    color: white;
+    margin-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    max-height: 56px;
+    min-height: 56px;
+    padding-top: 3px;
 }
 
 .allep a {
@@ -150,33 +150,33 @@ i.fa.fa-reply {
 }
 
 .nextep {
-float: left !important;
-    background: #313233 !important;
-    color: white !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    padding-top: 16px !important;
-    padding-bottom: 12px !important;
-    text-align: center !important;
-    min-height: 56px !important;
-    margin-left: 10px !important;
+float: left;
+    background: #313233;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    padding-bottom: 12px;
+    text-align: center;
+    min-height: 56px;
+    margin-left: 10px;
 }
 
-.nextep a {
+.nextep 
     color: #ffffff !important;
 }
 i.fa.fa-share {
     margin-left: 10px !important;
 }
 .downep {
-float: right !important;
-    background: #313233 !important;
-    padding-left: 8px !important;
-    color: white !important;
-    min-height: 56px !important;
-    text-align: center !important;
-    padding-right: 10px !important;
-    padding-top: 4px !important;
+float: right;
+    background: #313233;
+    padding-left: 8px;
+    color: white;
+    min-height: 56px;
+    text-align: center;
+    padding-right: 10px;
+    padding-top: 4px;
 
 }
 .downep a {

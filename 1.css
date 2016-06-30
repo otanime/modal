@@ -162,7 +162,7 @@ float: left;
     margin-left: 10px;
 }
 
-.nextep 
+.nextep a{
     color: #ffffff !important;
 }
 i.fa.fa-share {

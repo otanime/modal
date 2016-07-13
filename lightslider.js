@@ -182,7 +182,7 @@
             },
             controls: function () {
                 if (settings.controls) {
-                    $el.after('<div class="lSAction"><a class="lSPrev">' + settings.prevHtml + '</a><a class="lSNext">' + settings.nextHtml + '</a></div>');
+                    $el.after('<div class="lSAction"><a class="lSPrev"><i aria-hidden="true" class="fa fa-angle-left" style="font-size: 60px;"></i></a><a class="lSNext"><i aria-hidden="true" class="fa fa-angle-right" style=" font-size: 60px; "></i></a></div>');
                     if (!settings.autoWidth) {
                         if (length <= settings.item) {
                             $slide.find('.lSAction').hide();
